@@ -1,5 +1,5 @@
 # Ex-DevQuest-Copy-You-Tube
-<h3> Ecercício Curso Front-end: </h3>
+<h3> Exercício Curso Front-end: </h3>
 A proposta do exercíco é criar uma cópia de uma página do You Tube usando os conceitos de Display Flex e Grid.
 
 <hr>
